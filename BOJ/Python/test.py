@@ -1,3 +1,2 @@
-Map = [[0 for i in range(3)] for i in range(3)]
-
-print(list(Map))
+a = [1, 2, 3]
+print(a[:1])

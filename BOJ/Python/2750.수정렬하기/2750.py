@@ -13,6 +13,7 @@ for i in range(1, len(sort_list)):
         j = j-1
     sort_list[j+1] = key
 '''
+
 # 거품 정렬
 for i in range(len(sort_list) - 1):
     for j in range(len(sort_list) - (i+1)):
